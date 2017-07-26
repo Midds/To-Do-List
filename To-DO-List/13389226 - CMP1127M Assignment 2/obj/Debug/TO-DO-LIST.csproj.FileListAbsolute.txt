@@ -1,0 +1,3 @@
+D:\Users\James\Documents\GitHub\To-Do-List\To-DO-List\13389226 - CMP1127M Assignment 2\bin\Debug\13389226 - CMP1127M Assignment 2.exe.config
+D:\Users\James\Documents\GitHub\To-Do-List\To-DO-List\13389226 - CMP1127M Assignment 2\obj\Debug\13389226 - CMP1127M Assignment 2.exe
+D:\Users\James\Documents\GitHub\To-Do-List\To-DO-List\13389226 - CMP1127M Assignment 2\obj\Debug\13389226 - CMP1127M Assignment 2.pdb
